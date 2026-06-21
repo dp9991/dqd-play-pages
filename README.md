@@ -1,2 +1,14 @@
 # dqd-play-pages
-HTML page archive and documentation
+
+页面文件归档说明
+
+发布程序会将生成后的页面写入本仓库，形成可追踪的文件记录。
+
+## 目录内容
+
+- 页面文件：发布后的 HTML
+- 说明文件：README.md
+
+## 访问状态
+
+如果 Pages 暂未生效，可稍后重试或查看仓库中的 HTML 文件。
